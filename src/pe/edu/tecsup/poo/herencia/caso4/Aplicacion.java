@@ -27,6 +27,10 @@ public class Aplicacion {
 		System.out.println(nroHoras);
 		
 		// Hacer lo mismo para la clase EmplTemporales
+		Empleado empTemp = new EmpTemporales();
+        int nroHorasTemp = empTemp.calcularHorasDeTrabajo();
+        System.out.println(nroHorasTemp);
+		
 		
 	}
 
