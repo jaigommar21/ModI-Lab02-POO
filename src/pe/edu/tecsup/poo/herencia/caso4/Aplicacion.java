@@ -26,7 +26,7 @@ public class Aplicacion {
 		
 		System.out.println(nroHoras);
 		
-		
+		// Hacer lo mismo para la clase EmplTemporales
 		
 	}
 
