@@ -15,9 +15,18 @@ public class Aplicacion {
 		System.out.println(p.obtener_info());
 		
 		// Ejercio
-		
 		ProfesorTC tc = new ProfesorTC("Eduardo","Farfan","1111");
 		System.out.println(tc.obtener_info());
+		
+		
+		//
+		Empleado emp = new EmpAdministrativos();
+		
+		int nroHoras = emp.calcularHorasDeTrabajo();
+		
+		System.out.println(nroHoras);
+		
+		
 		
 	}
 

@@ -6,8 +6,5 @@ public class ProfesorTC extends Profesor {
 		super(nombre, apellido, codigo);
 		// TODO Auto-generated constructor stub
 	}
-
-	
-	
 	
 }
