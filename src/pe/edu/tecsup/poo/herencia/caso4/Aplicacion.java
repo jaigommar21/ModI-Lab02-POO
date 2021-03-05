@@ -16,8 +16,8 @@ public class Aplicacion {
 		
 		// Ejercio
 		
-//		ProfesorTC tc = new ProfesorTC("Eduardo","Farfan","1111");
-//		System.out.println(tc.obtener_info());
+		ProfesorTC tc = new ProfesorTC("Eduardo","Farfan","1111");
+		System.out.println(tc.obtener_info());
 		
 	}
 
